@@ -1,8 +1,9 @@
 ---
 layout: post
+permalink: /my-mac-setup
 title:  "My mac setup"
 date:   2023-07-09 18:15:44 +0200
-categories: macos apps
+categories: blog
 ---
 # My mac setup
 
