@@ -23,7 +23,7 @@ email: vincent.nick.good@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   This is the personal website for Vincent Good. The website is used as a blog, archive and resumé.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" vng-o.github.io
+url: vng-o.github.io
 twitter_username: 
 github_username:  vng-o
 
