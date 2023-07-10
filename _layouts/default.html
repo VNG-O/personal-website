@@ -3,15 +3,13 @@
 
   {%- include head.html -%}
 
-  <body>
+  <body class="h-100">
 
     {%- include header.html -%}
-    {%- include nav.html -%}
-    <main class="page-content" aria-label="Content">
-      <div class="wrapper">
+
+      <div class="container px-5 bg-success" style="height: 1500px;">
         {{ content }}
       </div>
-    </main>
 
     {%- include footer.html -%}
 

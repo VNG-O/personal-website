@@ -20,16 +20,20 @@
 
 title: vngood
 email: vincent.nick.good@gmail.com
-description: >- # this means to ignore newlines until "baseurl:"
-  This is the personal website for Vincent Good. The website is used as a blog, archive and resumé.
+lang: en
+description: This is the personal website for Vincent Good. The website is used as a blog, archive and resumé.
+logo_path: /assets/logo.png
 baseurl: /
 url: vng-o.github.io
 twitter_username: 
 github_username: vng-o
 linkedin_username: vincent-good
 
+sass:
+    sass_dir: _sass
+
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
